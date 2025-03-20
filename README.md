@@ -4,3 +4,9 @@
 $ dotnet build
 $ dotnet run
 ```
+
+interactive REPL
+```
+$ dotnet fsi
+> #quit;;
+```
