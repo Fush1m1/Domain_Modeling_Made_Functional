@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("Domain_Modeling_Made_Functional")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95b5344c459b63fc10b826c1ebeeff9eb39077de")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("Domain_Modeling_Made_Functional")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("Domain_Modeling_Made_Functional")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
